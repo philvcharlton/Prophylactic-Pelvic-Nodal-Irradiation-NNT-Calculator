@@ -1,0 +1,2 @@
+This Calculator re-frames the data from randomised control trials investigating the addition of prophylactic pelvic nodal irradiation in the context of numbers needed to treat, as well as a summary of long-term toxicity data.
+This is intended only to provide additional information from randomised trial data and is not a clinical decision making tool and does not replace the role of clinical decision making using individual patient data.
