@@ -1,6 +1,6 @@
 # Prophylactic Pelvic Nodal Irradiation – NNT Calculator
 
-Standalone package version 1.0.0, build 2026.09.18.
+Standalone package version 1.1.0, build 2026.09.23.
 
 ## Immediate offline use
 

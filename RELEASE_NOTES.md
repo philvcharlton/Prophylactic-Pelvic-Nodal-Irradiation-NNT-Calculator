@@ -1,5 +1,12 @@
 # Release notes
 
+## Standalone v1.1.0 — 23 September 2026
+
+- Added “The clinical trade-off in 100 comparable patients” POP-RT table.
+- Shows approximately 14 fewer biochemical failures, 12 fewer DFS events and 7 fewer distant-metastasis/DMFS events per 100 comparable patients receiving whole-pelvic rather than prostate-only RT.
+- Separates statistically supported benefits and urinary toxicity from outcomes with no proven between-group difference.
+- Adds an explicit warning that outcome categories overlap and must not be summed.
+
 ## Standalone v1.0.0 — 18 September 2026
 
 - Initial offline package derived from the published Prophylactic Pelvic Nodal Irradiation NNT Calculator.
